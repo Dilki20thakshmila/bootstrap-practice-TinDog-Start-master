@@ -22,6 +22,12 @@ h1{
   color: #fff;
   line-height: 1.5
 }
+h2{
+  font-size: 2.5rem;
+}
+h3{
+  font-weight: bolder;
+}
 .title-image{
   width: 60%;
   transform: rotate(25deg);
@@ -37,9 +43,7 @@ h1{
 text-align: center;
 padding: 5%;
 }
-h3{
-  font-weight: bolder;
-}
+
 p{
   color: #8f8f8f;
 }
@@ -49,4 +53,14 @@ p{
 }
 .icn:hover{
   color: lightgrey;
+}
+
+#testimonials{
+  padding: 7% 15%;
+  background-color:grey;
+  text-align: center;
+  color: white;
+}
+.testimonial-img{
+  border-radius: 100%;
 }
